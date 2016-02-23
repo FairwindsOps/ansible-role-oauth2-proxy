@@ -19,7 +19,7 @@ oauth2_proxy_config          :
     cookie-secure            : false
     cookie-domain            : "localhost:5000"
     cookie_secret            : "COOK_SECRET"
-    client_id                : "788957449842-idp459qcitsc8eq5o8iftokta14toeaj.apps.googleusercontent.com"
-    client_secret            : "9HebvkNa9zQCJwHFyJ1xZgDE"
+    client_id                : "CLIENT_ID"
+    client_secret            : "CLIENT_SECRET"
 
-oauth2_config_cmdline_args   : "-github-org='MYCoolORg'"
+oauth2_config_cmdline_args   : ""

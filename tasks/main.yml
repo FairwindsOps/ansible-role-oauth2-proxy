@@ -24,6 +24,7 @@
     sha256sum="{{ oaut2_proxy_http_sha256 | default(omit) }}"
     dest="{{ oauth2_dir_tmp }}"
     owner="{{ oauth2_user }}"
+    validate_certs=False
 
 - name: unarchive oauth2 binary
   unarchive: 
