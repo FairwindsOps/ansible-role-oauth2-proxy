@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: ReactiveOps
-  description: CaseCommons OAuth role.
+  description: OAuth proxy role.
   company: ReactiveOps
   license: license (GPLv2, CC-BY, etc)
   min_ansible_version: 1.2
