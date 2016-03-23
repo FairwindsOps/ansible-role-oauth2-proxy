@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: ReactiveOps
-  description: CaseCommons sensu role.
+  description: CaseCommons OAuth role.
   company: ReactiveOps
   license: license (GPLv2, CC-BY, etc)
   min_ansible_version: 1.2
